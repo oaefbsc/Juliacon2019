@@ -1,0 +1,20 @@
+title: "Markov Chain-Monte Carlo Methods for\\ Linear Algebra using Julia v.1.0"
+keywords:
+  - Monte Carlo Methods
+  - Markov Chains
+  - Julia
+authors:
+  - name: Oscar A. Esquivel-Flores
+    orcid: 0000-0003-1451-1285
+    affiliation: 1
+  - name: H\'{e}ctor Ben\'{i}tez P\'{e}rez
+    affiliation: 1
+  - name:
+    affiliation: 
+affiliations:
+  - name: Universidad Nacional Autónoma de México, IIMAS-DISCA.
+    index: 1
+  - name: 
+    index:
+date: 23 July 2019
+bibliography: ref.bib
